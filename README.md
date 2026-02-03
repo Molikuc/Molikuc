@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Alexi, I'm a developer that likes creating things for internet. Right now I am focusing on doing web animations.. or at least try to.
+My name is Alexis, I'm a developer that likes creating things for internet. Right now I am focusing on doing web animations.. or at least try to.
 
 - ⚛  I'm working on React, especially Next.JS
 - 🏃‍♂️ I'm currently playing around with GSAP, scroll driven animations are kinda fun to do.
