@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Alexis, I'm a Web Designer that likes creating things for internet. I am focusing on doing web animations.. or at least try to.
+Currently doing more of UI/UX Design. You can check it on my Instagram @alexisdotruiz or my website ruizalexis.com
 
 - ⚛  I'm working on React, especially Next.JS
 - 🏃‍♂️ I'm currently playing around with GSAP, scroll driven animations are kinda fun to do.
